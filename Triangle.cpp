@@ -1,8 +1,7 @@
-#include<iostream.h>
+#include<stdio.h>
 #include<conio.h>
-int main()
+void main()
 {
-  cout<<"Hello";
+  printf("Hello");
   getch();
-  return 0;
 }
